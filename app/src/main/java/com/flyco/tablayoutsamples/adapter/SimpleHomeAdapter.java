@@ -55,3 +55,8 @@ public class SimpleHomeAdapter extends BaseAdapter {
         return tv;
     }
 }
+
+/*
+    this adapter for Home ListView
+    
+*/
